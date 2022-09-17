@@ -1,0 +1,14 @@
+body{
+
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    font-size: 20px;
+    width: 400px;
+    background-color: lightpink;
+    color: lightslategray;
+    border-radius: 30px !important;
+
+}
